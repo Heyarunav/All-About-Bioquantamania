@@ -1,5 +1,5 @@
 # All-About-Bioquantamania
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +15,6 @@
             position: relative;
         }
         h1, h2 { color: #333; }
-        iframe { width: 100%; height: 400px; border: none; }
         .article-container { margin-bottom: 30px; }
         .author {
             font-size: 16px;
@@ -31,7 +30,7 @@
     <div class="author">Written by Amartya Chakraborty, M.Tech 2nd Semester</div>
 
     <div class="article-container">
-        <h2>Related Article</h2>
+        <h2>Related Articles</h2>
         <p>“Bioquantamania – A thought”
             Quantum biology is an emerging field that explores the role of quantum 
             mechanics in biological processes. While quantum mechanics typically 
@@ -40,12 +39,9 @@
             influence biological systems, which traditionally operate on a much larger 
             scale.
         </p>
-        <p>Read the full article: <a href="https://www.scientificamerican.com/article/does-quantum-mechanics-play-a-role-in-life/" target="_blank">Quantum Effects in Biology</a></p>
-    </div>
+        <p>Read the full article: <a href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1266357/full" target="_blank">Frontiers in Plant Science - Quantum Biology Insights</a></p>
 
-    <div class="video-container">
-        <h2>Explainer Video</h2>
-        <iframe src="https://www.youtube.com/embed/1zD9tYWKEqk" allowfullscreen></iframe>
+        <p>Additional Reading: <a href="https://doi.org/10.3390/quantum3010006" target="_blank">MDPI Quantum Journal - Quantum Mechanics in Biology</a></p>
     </div>
 
 </body>
