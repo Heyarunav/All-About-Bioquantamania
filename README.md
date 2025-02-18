@@ -18,20 +18,17 @@
         iframe { width: 100%; height: 400px; border: none; }
         .article-container { margin-bottom: 30px; }
         .author {
-            position: absolute;
-            top: 20px;
-            right: 20px;
             font-size: 16px;
             color: #555;
             font-weight: bold;
+            margin-bottom: 15px;
         }
     </style>
 </head>
 <body>
 
-    <div class="author">Written by Amartya Chakraborty, M.Tech 2nd Semester</div>
-
     <h1>Bioquantamania: A Thought</h1>
+    <div class="author">Written by Amartya Chakraborty, M.Tech 2nd Semester</div>
 
     <div class="article-container">
         <h2>Related Article</h2>
@@ -43,12 +40,12 @@
             influence biological systems, which traditionally operate on a much larger 
             scale.
         </p>
-        <p>Read the full article: <a href="https://www.example.com/in-depth-research-article" target="_blank">In-depth Research Article on Bioquantamania</a></p>
+        <p>Read the full article: <a href="https://www.nature.com/articles/s41570-019-0084-8" target="_blank">Quantum Biology: New Perspectives</a></p>
     </div>
 
     <div class="video-container">
         <h2>Explainer Video</h2>
-        <iframe src="https://www.youtube.com/embed/example-video-id" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/1OVZYyo-u4M" allowfullscreen></iframe>
     </div>
 
 </body>
