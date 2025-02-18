@@ -40,13 +40,14 @@
             influence biological systems, which traditionally operate on a much larger 
             scale.
         </p>
-        <p>Read the full article: <a href="https://www.nature.com/articles/s41570-019-0084-8" target="_blank">Quantum Biology: New Perspectives</a></p>
+        <p>Read the full article: <a href="https://www.scientificamerican.com/article/does-quantum-mechanics-play-a-role-in-life/" target="_blank">Quantum Effects in Biology</a></p>
     </div>
 
     <div class="video-container">
         <h2>Explainer Video</h2>
-        <iframe src="https://www.youtube.com/embed/1OVZYyo-u4M" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/1zD9tYWKEqk" allowfullscreen></iframe>
     </div>
 
 </body>
 </html>
+
